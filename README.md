@@ -7,7 +7,7 @@ A declarative router for Angular applications.
 Use your package manager of choice to install the package.
 
 ```sh
-npm install angular-routing
+ng add angular-routing
 ```
 
 OR
@@ -15,6 +15,16 @@ OR
 ```sh
 yarn add angular-routing
 ```
+
+## Installation with ng add
+
+You can use ng add to install the package by using below command.
+
+```sh
+ng add angular-routing
+```
+
+The above command will install the package, and add the RoutingModule import in Root Module.
 
 ## Usage
 
